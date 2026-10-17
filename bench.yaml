@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/CambridgeinstitutetechnologyBLR-Dhanush/_ECC_Processor
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_ecc_processor
+  project: ECC Processor
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 2f81e7daada08eb52bc3ccb57322ad4755d8a44c
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_ecc_processor
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_ecc_processor
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T23:22:10Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26b/tt_um_ecc_processor
+- upstream/main
